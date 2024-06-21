@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Assignment/static/css/main.cf91b3a1.css",
-    "main.js": "/Assignment/static/js/main.a0a8cf2a.js",
+    "main.js": "/Assignment/static/js/main.eab456b4.js",
     "static/js/453.287fbfbc.chunk.js": "/Assignment/static/js/453.287fbfbc.chunk.js",
     "static/media/gradient-2.png": "/Assignment/static/media/gradient-2.7fecba8119dadcd20ccf.png",
     "static/media/gradient.png": "/Assignment/static/media/gradient.9da325f2ff9b5247b87b.png",
     "index.html": "/Assignment/index.html",
     "main.cf91b3a1.css.map": "/Assignment/static/css/main.cf91b3a1.css.map",
-    "main.a0a8cf2a.js.map": "/Assignment/static/js/main.a0a8cf2a.js.map",
+    "main.eab456b4.js.map": "/Assignment/static/js/main.eab456b4.js.map",
     "453.287fbfbc.chunk.js.map": "/Assignment/static/js/453.287fbfbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf91b3a1.css",
-    "static/js/main.a0a8cf2a.js"
+    "static/js/main.eab456b4.js"
   ]
 }
