@@ -3,7 +3,7 @@ import './App.css';
 import Home from './Home';
 import Gradient from './images/gradient.png';
 import Gradient2 from './images/gradient-2.png';
-import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
+import { Route, HashRouter as Router, Routes } from 'react-router-dom';
 import EventRegistration from './EventRegistration';
 import JobApplication from './JobApplication';
 import SurveyForm from './SurveyForm';
